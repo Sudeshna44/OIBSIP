@@ -1,4 +1,4 @@
-To create a calculator for the web, we have used HTML, CSS, and JavaScript. This calculator performs basic math operations like addition, subtraction,
+To create a calculator for the web,I have used HTML, CSS, and JavaScript. This calculator performs basic math operations like addition, subtraction,
 multiplication, and division.
 
 Process:
