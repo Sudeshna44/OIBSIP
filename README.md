@@ -5,7 +5,6 @@ Process:
 HTML Structure:
 I have Started by creating the basic structure of the tribute page using HTML.
 Sections for the title, a brief introduction, main content, and images are also included.
-I have used HTML tags like <h1>, <p>, <img>, and <div> to structure the page.
 
 Content and Text:
 The content for the tribute page is wriiten.
@@ -14,7 +13,6 @@ Quotes, anecdotes, or important facts are added.
 
 Images and Media:
 Images have been inserted related to the tribute.
-The <img> tag is used to display images.
 
 Styling with CSS:
 CSS is used to style the tribute page and make it visually appealing.
