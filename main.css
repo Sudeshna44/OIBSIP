@@ -1,0 +1,67 @@
+body {
+    background: linear-gradient(to right, #ff7e5f, #feb47b, #ffed83); /* Vibrant gradient background */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background for the form container */
+    border-radius: 10px;
+    padding: 20px;
+    margin: 50px auto;
+    max-width: 400px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle lift effect */
+}
+
+h2 {
+    color: #333; /* Dark text color for headings */
+}
+
+input[type="text"],
+input[type="password"],
+button {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #ff4d4d; /* Vibrant red for buttons */
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ff3333; /* Darker red on hover */
+}
+
+.error-message {
+    color: #ff3333; /* Vibrant red for error messages */
+}
+
+.web-name {
+    text-align: center;
+    margin-top: 50px;
+    color: #fff; /* White text color for the web name */
+}
+
+.contact-info {
+    text-align: center;
+    margin-top: 20px;
+    color: #fff; /* White text color for the contact information */
+}
+
+.contact-info a {
+    color: #fff; /* White text color for links */
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
