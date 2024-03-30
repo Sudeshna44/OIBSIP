@@ -1,1 +1,1 @@
-# OIBSIP
+Welcome to the Virtual Internship on Web Development! This program is designed to provide with hands-on experience in four key tasks of making web pages- Calculator,Tribute Page,A Basic To-Do Webapp,Login Authentication. Throughout this internship,I will have the opportunity to work on HTML,CSS,JAVASCRIPT and gain valuable insights into the field of Web Development.
